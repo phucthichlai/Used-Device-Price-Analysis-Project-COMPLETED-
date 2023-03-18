@@ -27,7 +27,7 @@ After the EDA is performed, it can be seen that the price of used screen devices
 + Whether 4G is available or not
 + Whether 5G is available or not
 
-## Technologies used ⚙️:satellite:
+## 4. Technologies used ⚙️:satellite:
 - Python <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="24" height="24">
 - Statistics: Pearson, ANOVA :bar_chart:
 - Jupyter Notebook <img src="https://user-images.githubusercontent.com/104643138/226098051-177ede6d-3fe5-49a8-8f57-446caf49f94c.png" width="24" height="24">
