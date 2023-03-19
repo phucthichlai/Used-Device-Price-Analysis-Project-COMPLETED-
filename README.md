@@ -32,7 +32,7 @@ After the EDA is performed, it can be seen that the price of used screen devices
 - [Statistics: Pearson, ANOVA](https://www.sagepub.com/sites/default/files/upm-binaries/33663_Chapter4.pdf) :bar_chart:
 - [Jupyter Notebook](https://jupyter.org/) <img src="https://user-images.githubusercontent.com/104643138/226098051-177ede6d-3fe5-49a8-8f57-446caf49f94c.png" width="24" height="24">
 - Python Libraries: [Pandas](https://pandas.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225993416-31cf4034-962c-4842-8821-5a5ccfc8e729.png" width="24" height="24"/> | [NumPy](https://numpy.org/) <img src="https://user-images.githubusercontent.com/104643138/225993758-e1b3af8b-47a0-405d-90ff-b2edeeac3d37.png" width="24" height="24"/> | [Matplotlib](https://matplotlib.org/) <img src="https://user-images.githubusercontent.com/104643138/225994026-078da32e-a169-4f83-9fa4-fc0d00c911c1.png" width="24" height="24"/>
-| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/>
+| [Seaborn](https://seaborn.pydata.org/) <img src="https://user-images.githubusercontent.com/104643138/225994199-d9f150a0-27b6-44bc-a581-2e21d7d0e9af.svg" width="24" height="24"/> | [Scikit-learn](https://scikit-learn.org/)<img src="https://user-images.githubusercontent.com/104643138/226148658-1612b9c8-9995-41ec-b3ce-5864f39b61d9.jpeg" width="24" height="24"/>
 
 ## You can reach me at 👇
 <img href="https://www.facebook.com/dobaophuc98/" src="https://img.shields.io/badge/Facebook-@dobaophuc98-1877F2?style=for-the-badge&logo=Facebook"/>
